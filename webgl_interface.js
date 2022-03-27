@@ -15,7 +15,6 @@
 				gl.clear(gl.COLOR_BUFFER_BIT);
 				//what progbram to use;
 
-				//We will need this for now!
 				gl.enable(gl.DEPTH_TEST);
 
 				gl.useProgram(this.program);
