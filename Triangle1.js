@@ -57,7 +57,7 @@
 		this.loc = [0.0,0.0,0.0];
 		this.rot = [0.0,0.0,0.0];
 	 }
-	 //Again this could be inherited ... but not always...not all objects
+	 //Again this could be inherited but not all objects
 
 	render(program)
 	{
